@@ -1,5 +1,11 @@
-<h2 align="center">Hi 👋! My name is Kashish Charaya and I'm a security researcher from India</h2>
 
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/KashishOO7/KashishOO7/blob/main/cool.gif"  />
+</div>
+
+###
 ###
 
 <div align="center">
@@ -55,11 +61,4 @@
 
 ###
 
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/KashishOO7/KashishOO7/blob/main/cool.gif"  />
-</div>
-
-###
 ###
