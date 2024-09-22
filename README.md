@@ -54,14 +54,9 @@
 <details>
   <summary><h2>💻 Featured Projects</h2></summary>
   <ul>
-    <li><a href="https://github.com/KashishOO7/CLI-Password-Manager">assword Manager</a> - An advanced CLI based Password Manager</li>
+    <li><a href="https://github.com/KashishOO7/CLI-Password-Manager">Password Manager</a> - An advanced CLI based Password Manager</li>
   </ul>
 </details>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 <details>
   <summary><h2>📘 My Notes & Resources</h2></summary>
