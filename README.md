@@ -1,68 +1,96 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Namaste, I'm Kashish Charaya
+</h1>
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=F75C7E&center=true&vCenter=true&width=435&lines=Security+Researcher;Blockchain;Realistic+Imaginator;Quantum+Computing" alt="Typing SVG" />
 
-<div align="left">
-  <img height="200" src="https://github.com/KashishOO7/KashishOO7/blob/main/cool.gif"  />
 </div>
 
-###
-###
+<p align="center">
+  <a href="https://learnsec101.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://blog.learnsec101.com"><img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+  <a href="https://notes.learnsec101.com/"><img src="https://img.shields.io/badge/Notes-4285F4?style=for-the-badge&logo=evernote&logoColor=white" alt="Notes"/></a>
+  <a href="https://medium.com/@kashi.sh"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.linkedin.com/in/kashish-charaya-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KashishOO7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KashishOO7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+---
+
+<h2>🚀 About Me</h2>
+<p>Thanks for stopping by! Let's collaborate and make this world an interesting and safer place to live in!</p>
+
+<h2>🛠️ My Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Frontend_Stack-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Stack"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+
+<h3>I have explored multiple forensic domains, including but not limited to:</h3>
+
+<h3>Tools & Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Forensics"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forensics"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Forensics"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KashishOO7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashishOO7&theme=radical" alt="GitHub Streak" />
 </div>
 
-###
+---
+
+<details>
+  <summary><h2>💻 Featured Projects</h2></summary>
+  <ul>
+    <li><a href="https://github.com/KashishOO7/CLI-Password-Manager">assword Manager</a> - An advanced CLI based Password Manager</li>
+  </ul>
+</details>
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-###
+<details>
+  <summary><h2>📘 My Notes & Resources</h2></summary>
+  <ul>
+    <li><a href="https://notes.learnsec101.com/">GitBook Notes</a> - Explore my detailed research, study notes, curated resources</li>
+  </ul>
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="36" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="postgresql logo"  />
+
+---
+
+<h2>🌱 I'm Currently Exploring</h2>
+
+- Quantum Computing in Blockchain: How Quantum Computing can break Blockchain Integrity
+- Ethical hacking in wide range of domains
+
+---
+
+<h2>📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="mailto:hello@learnsec101.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KashishOO7&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
 
-###
-
-<a href="https://learnsec101.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-3776AB?style=for-the-badge" alt="Website">
-</a>
-
-<a href="https://www.linkedin.com/in/kashish-charaya/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://medium.com/@kashi.sh" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
-
-<a href="mailto:" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
-</a>
-
-
-###
-
-<br clear="both">
-
-
-
-###
-
-###
+<div align="center">
+  ⭐️ From <a href="https://github.com/KashishOO7">Kashish Charaya</a>
+</div>
