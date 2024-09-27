@@ -23,21 +23,24 @@
 
 <h2>🛠️ My Tech Stack</h2>
 
-<h3>Languages</h3>
+<!--<h3>Languages</h3>-->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Frontend_Stack-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Stack"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <h3>I have explored multiple forensic domains, including but not limited to:</h3>
 
-<h3>Tools & Platforms</h3>
+<!--<h3>Tools & Platforms</h3>-->
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Forensics"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forensics"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Forensics"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  
 </p>
 
 ---
